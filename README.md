@@ -1,5 +1,3 @@
-# VulhubExpand
-
 ![1](1.jpg)
 
 本项目借鉴了vulhub仓库的模式，用户只需执行一条docker-compose命令即可轻松部署漏洞环境。
