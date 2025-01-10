@@ -6,11 +6,13 @@
 
 vulhub项目地址：https://github.com/vulhub/vulhub
 
+VulhubExpand项目地址：https://github.com/a1batr0ssG/VulhubExpand
+
 ## Usage
 
 ```
 # 下载项目
-wget https://github.com/wi1kwegam4a/VulhubExpand/archive/refs/heads/main.zip
+wget https://github.com/a1batr0ssG/VulhubExpand/archive/refs/heads/main.zip
 unzip main.zip
 cd VulhubExpand-main
 
