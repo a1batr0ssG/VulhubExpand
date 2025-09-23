@@ -32,7 +32,6 @@ VulhubExpand项目地址：https://github.com/a1batr0ssG/VulhubExpand
 | CVE-2025-30208 | Vite任意文件读取漏洞                                    | 已有     |
 | CVE-2025-30567 | WordPress WP01插件任意文件下载漏洞                      | 已有     |
 | CVE-2025-3102  | WordPress OttoKit插件前台管理员账户创建漏洞             | 已有     |
-| CVE-2025-31644 | F5 BIG-IP Appliance 模式命令执行漏洞                    | 暂无     |
 | CVE-2025-32118 | WordPress CMP插件后台任意命令执行漏洞                   | 已有     |
 | CVE-2025-32432 | Craft CMS命令执行漏洞                                   | 暂无     |
 | CVE-2025-32433 | Erlang/OTP SSH 远程代码执行漏洞                         | 已有     |
